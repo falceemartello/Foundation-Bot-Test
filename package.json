@@ -1,0 +1,24 @@
+{
+  "name": "lockdown-bot",
+  "version": "1.0.1",
+  "description": "bot per lockdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falceemartello/LockDown-BOT.git"
+  },
+  "author": "Dr. Falceemartello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falceemartello/LockDown-BOT/issues"
+  },
+  "homepage": "https://github.com/falceemartello/LockDown-BOT#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "ms": "^2.1.3",
+    "rest": "^2.0.0"
+  }
+}
